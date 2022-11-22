@@ -1,0 +1,24 @@
+.section__header {
+    color: #0978b8;
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.section__subheader {
+    color: #0978b8;
+}
+
+.section__photo {
+    border-radius: 20px;
+    border: 1px solid #085d8f;
+    margin: auto
+}
+
+.section__listAuthors {
+    list-style-type: none;
+    text-align: center;
+    color: #00a2ff;
+    margin: auto;
+}

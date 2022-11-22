@@ -1,0 +1,34 @@
+.table {
+    font-family: 'Poppins', sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    overflow-x: auto;
+}
+
+.tableContainer {
+    overflow-x: auto;
+}
+
+.table__cell {
+    border: 2px solid #085d8f;
+    padding: 20px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table__cell--header {
+    background-color: #00a2ff;
+}
+
+.table__cell:hover {
+    background: #d8dbdbaf
+}
+
+.table__row:hover {
+    background: #d8dbdbaf;
+}
+
+.table__caption {
+    caption-side: top;
+    text-align: left;
+}

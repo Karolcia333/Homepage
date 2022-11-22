@@ -2,7 +2,8 @@
 ![Homepage](image/homepage.png)
 ### Website link
 [See my page]( https://karolcia333.github.io/Homepage/)
-##Demo
+
+## Demo
 ![Homepage GIF](image/videoHomepage.gif)
 ## Description
 This is my first website project. 

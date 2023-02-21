@@ -1,7 +1,7 @@
 # Homepage
 ![Homepage](image/homepageNew.png)
 ## Website link
-[See my page]( adresem https://karolinaj33.github.io/Homepage/)
+[See my page](adresem https://karolinaj33.github.io/Homepage/)
 ## Demo
 ![Homepage GIF](image/videoHomepage.gif)
 ## Description

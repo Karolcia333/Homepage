@@ -1,5 +1,5 @@
 # Homepage
-![Homepage](image/homepage.png)
+![Homepage](image/homepageNew.png)
 ## Website link
 [See my page]( adresem https://karolinaj33.github.io/Homepage/)
 ## Demo

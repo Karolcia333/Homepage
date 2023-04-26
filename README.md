@@ -1,4 +1,4 @@
-# Homepage
+# Karolina Jasiówka
 ![Homepage](image/homepageNew.png)
 ## Website link
 [See my page](https://karolinaj33.github.io/Homepage/)
